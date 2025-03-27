@@ -1,2 +1,5 @@
-# microsoft_power_point
+# Aesthetically Pleasing Presentations Are a Bonus 🎨
 A short collection of a few Power Point presentations put together by me or with a group.
+
+• 🏗️ [BP SWOT Presentation](h): This project involved analyzing the strengths, weaknesses, opportunities, and threats (SWOT) of BP, one of the world’s leading energy companies. The analysis explored BP’s strategic positioning, identifying internal capabilities and challenges, and external factors such as market trends and regulatory changes. Recommendations focused on leveraging opportunities in renewable energy and addressing threats like competition and environmental concerns to improve sustainability and profitability.    
+• 🚙 [Volkswagen OSCAR Presentation](h): This project provided a comprehensive analysis of Volkswagen’s organizational strategy using the OSCAR framework. Key areas assessed included operational performance, strategic challenges, and future opportunities. The study highlighted Volkswagen’s efforts in innovation, sustainability, and expansion into electric vehicles. Recommendations were tailored to improve market share, enhance global competitiveness, and strengthen alignment with consumer and environmental expectations. 
